@@ -1,2 +1,3 @@
-# php-demo-app
-Proyek PHP sederhana untuk pipeline Jenkins
+# PHP Demo App
+
+A simple PHP application with Jenkins pipeline.
